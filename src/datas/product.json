@@ -1,0 +1,578 @@
+[
+    {
+      "category": "chair",
+      "id": 1,
+      "name": "Modern Chair",
+      "price": 129.99,
+      "description": "Ergonomic wooden chair with minimalist design, perfect for contemporary spaces.",
+      "quantity": 15,
+      "dimensions": {
+        "height": "32 inches",
+        "width": "20 inches",
+        "depth": "22 inches"
+      },
+      "weight": "12 lbs",
+      "rating": 4.5,
+      "image": "/assets/products/Photo.png"
+    },
+    {
+      "category": "chair",
+      "id": 2,
+      "name": "Velvet Chair",
+      "price": 249.99,
+      "description": "Luxurious velvet upholstery with gold metal legs for a glamorous touch.",
+      "quantity": 8,
+      "dimensions": {
+        "height": "30 inches",
+        "width": "28 inches",
+        "depth": "30 inches"
+      },
+      "weight": "25 lbs",
+      "rating": 4.8,
+      "image": "/assets/products/chair1.png"
+    },
+    {
+      "category": "chair",
+      "id": 3,
+      "name": "Bar Stool",
+      "price": 89.99,
+      "description": "Adjustable height stool with metal frame and distressed wood seat.",
+      "quantity": 20,
+      "dimensions": {
+        "height": "24-32 inches",
+        "width": "16 inches",
+        "depth": "18 inches"
+      },
+      "weight": "15 lbs",
+      "rating": 4.3,
+      "image": "/assets/products/chair3.png"
+    },
+    {
+      "category": "chair",
+      "id": 4,
+      "name": "Dining Chair",
+      "price": 179.99,
+      "description": "Lightweight beech wood chair with curved backrest for optimal comfort.",
+      "quantity": 12,
+      "dimensions": {
+        "height": "31 inches",
+        "width": "18 inches",
+        "depth": "20 inches"
+      },
+      "weight": "10 lbs",
+      "rating": 4.7,
+      "image": "/assets/products/chair4.avif"
+    },
+    {
+      "category": "chair",
+      "id": 5,
+      "name": "Armchair Chair",
+      "price": 349.99,
+      "description": "Authentic reproduction with walnut frame and premium leather upholstery.",
+      "quantity": 5,
+      "dimensions": {
+        "height": "30 inches",
+        "width": "26 inches",
+        "depth": ["28 inches"]
+      },
+      "weight": "28 lbs",
+      "rating": 4.9,
+      "image": "/assets/products/chair3.png"
+    },
+    {
+      "category": "chair",
+      "id": 6,
+      "name": "Stackable Chair",
+      "price": 49.99,
+      "description": "Durable polypropylene construction, perfect for outdoor or casual use.",
+      "quantity": 30,
+      "dimensions": {
+        "height": "29 inches",
+        "width": "17 inches",
+        "depth": "19 inches"
+      },
+      "weight": "7 lbs",
+      "rating": 4.0,
+      "image": "/assets/products/Photo.png"
+    },
+    {
+      "category": "bed",
+      "id": 7,
+      "name": "Bed Frame",
+      "price": 899.99,
+      "description": "Elegant four-poster bed with sheer drapes for a romantic bedroom.",
+      "quantity": 4,
+      "dimensions": {
+        "height": "86 inches",
+        "width": "62 inches",
+        "depth": "82 inches"
+      },
+      "weight": "120 lbs",
+      "rating": 4.6,
+      "image": "/assets/products/bed1.jpg" 
+    },
+    {
+      "category": "bed",
+      "id": 8,
+      "name": "Storage Bed",
+      "price": 649.99,
+      "description": "Modern design with built-in drawers for maximizing storage space.",
+      "quantity": 7,
+      "dimensions": {
+        "height": "28 inches",
+        "width": "60 inches",
+        "depth": "80 inches"
+      },
+      "weight": "150 lbs",
+      "rating": 4.7,
+      "image": "/assets/products/bed2.jpg" 
+    },
+    {
+      "category": "bed",
+      "id": 9,
+      "name": "Wingback Bed",
+      "price": 749.99,
+      "description": "Luxurious tufted headboard with premium fabric upholstery.",
+      "quantity": 5,
+      "dimensions": {
+        "height": "48 inches",
+        "width": "62 inches",
+        "depth": "82 inches"
+      },
+      "weight": "110 lbs",
+      "rating": 4.8,
+      "image": "/assets/products/bed3.jpg" 
+    },
+    {
+      "category": "bed",
+      "id": 10,
+      "name": "Metal Daybed",
+      "price": 499.99,
+      "description": "Versatile daybed that converts to twin bed, perfect for guest rooms.",
+      "quantity": 9,
+      "dimensions": {
+        "height": "38 inches",
+        "width": "42 inches",
+        "depth": "78 inches"
+      },
+      "weight": "65 lbs",
+      "rating": 4.4,
+      "image": "/assets/products/bed4.avif" 
+    },
+    {
+      "category": "bed",
+      "id": 11,
+      "name": "Bunk Ladder",
+      "price": 799.99,
+      "description": "Space-saving twin-over-twin bunk bed with safety rails.",
+      "quantity": 6,
+      "dimensions": {
+        "height": "65 inches",
+        "width": "42 inches",
+        "depth": "78 inches"
+      },
+      "weight": "180 lbs",
+      "rating": 4.5,
+      "image": "/assets/products/bed5.avif" 
+    },
+    {
+      "category": "bed",
+      "id": 12,
+      "name": "Floating Bed",
+      "price": 1299.99,
+      "description": "Modern minimalist design with LED lighting and hidden storage.",
+      "quantity": 3,
+      "dimensions": {
+        "height": "20 inches",
+        "width": "72 inches",
+        "depth": "84 inches"
+      },
+      "weight": "200 lbs",
+      "rating": 4.9,
+      "image": "/assets/products/bed6.jpg" 
+    },
+    {
+      "category": "sofa",
+      "id": 13,
+      "name": "Chesterfield Sofa",
+      "price": 2499.99,
+      "description": "Classic button-tufted design with top-grain leather upholstery.",
+      "quantity": 4,
+      "dimensions": {
+        "height": "34 inches",
+        "width": "86 inches",
+        "depth": "38 inches"
+      },
+      "weight": "180 lbs",
+      "rating": 4.9,
+      "image": "/assets/products/sofa1.avif" 
+    },
+    {
+      "category": "sofa",
+      "id": 14,
+      "name": "Sectional Sofa",
+      "price": 1899.99,
+      "description": "Customizable configuration with deep seats and reversible chaise.",
+      "quantity": 6,
+      "dimensions": {
+        "height": "32 inches",
+        "width": "120 inches",
+        "depth": "60 inches"
+      },
+      "weight": "250 lbs",
+      "rating": 4.7,
+      "image": "/assets/products/sofa2.avif" 
+    },
+    {
+      "category": "sofa",
+      "id": 15,
+      "name": "Velvet Loveseat",
+      "price": 899.99,
+      "description": "Compact two-seater with tapered legs and rich velvet fabric.",
+      "quantity": 8,
+      "dimensions": {
+        "height": "30 inches",
+        "width": "56 inches",
+        "depth": "34 inches"
+      },
+      "weight": "75 lbs",
+      "rating": 4.6,
+      "image": "/assets/products/sofa3.avif" 
+    },
+    {
+      "category": "sofa",
+      "id": 16,
+      "name": "Sleeper Sofa",
+      "price": 1299.99,
+      "description": "Converts to queen bed with memory foam mattress, perfect for guests.",
+      "quantity": 5,
+      "dimensions": {
+        "height": "36 inches",
+        "width": "84 inches",
+        "depth": "40 inches"
+      },
+      "weight": "160 lbs",
+      "rating": 4.5,
+      "image": "/assets/products/sofa4.avif" 
+    },
+    {
+      "category": "sofa",
+      "id": 17,
+      "name": "Mid Sofa",
+      "price": 1599.99,
+      "description": "Authentic reproduction with walnut legs and premium wool blend fabric.",
+      "quantity": 4,
+      "dimensions": {
+        "height": "31 inches",
+        "width": "78 inches",
+        "depth": "34 inches"
+      },
+      "weight": "120 lbs",
+      "rating": 4.8,
+      "image": "/assets/products/sofa5.avif" 
+    },
+    {
+      "category": "sofa",
+      "id": 18,
+      "name": "Convertible Futon",
+      "price": 499.99,
+      "description": "Multi-functional design that converts from sofa to bed in seconds.",
+      "quantity": 12,
+      "dimensions": {
+        "height": "32 inches",
+        "width": "72 inches",
+        "depth": "36 inches"
+      },
+      "weight": "90 lbs",
+      "rating": 4.2,
+      "image": "/assets/products/sofa1.avif" 
+    },
+    {
+      "category": "lamp",
+      "id": 19,
+      "name": "Floor Lamp",
+      "price": 129.99,
+      "description": "Adjustable gooseneck design with Edison bulb included.",
+      "quantity": 25,
+      "dimensions": {
+        "height": "62 inches",
+        "width": "12 inches",
+        "depth": "12 inches"
+      },
+      "weight": "8 lbs",
+      "rating": 4.4,
+      "image": "/assets/products/light1.png" 
+    },
+    {
+      "category": "lamp",
+      "id": 20,
+      "name": "Crystal Lamp",
+      "price": 199.99,
+      "description": "Hand-cut crystal base with linen drum shade for elegant lighting.",
+      "quantity": 15,
+      "dimensions": {
+        "height": "24 inches",
+        "width": "10 inches",
+        "depth": "10 inches"
+      },
+      "weight": "6 lbs",
+      "rating": 4.7,
+      "image": "/assets/products/light2.png" 
+    },
+    {
+      "category": "lamp",
+      "id": 21,
+      "name": "Arc Lamp",
+      "price": 299.99,
+      "description": "Sleek curved design with dimmable LED lighting feature.",
+      "quantity": 10,
+      "dimensions": {
+        "height": "78 inches",
+        "width": "48 inches",
+        "depth": "20 inches"
+      },
+      "weight": "15 lbs",
+      "rating": 4.6,
+      "image":  "/assets/products/light3.jpg" 
+    },
+    {
+      "category": "lamp",
+      "id": 22,
+      "name": "Desk Lamp",
+      "price": 59.99,
+      "description": "Touch-controlled with 3 color temperatures and built-in USB port.",
+      "quantity": 30,
+      "dimensions": {
+        "height": "18 inches",
+        "width": "10 inches",
+        "depth": "8 inches"
+      },
+      "weight": "3 lbs",
+      "rating": 4.3,
+      "image": "/assets/products/light4.jpg" 
+    },
+    {
+      "category": "lamp",
+      "id": 23,
+      "name": "Ceramic Lamp",
+      "price": 89.99,
+      "description": "Hand-glazed ceramic base with natural linen shade.",
+      "quantity": 20,
+      "dimensions": {
+        "height": "26 inches",
+        "width": "8 inches",
+        "depth": "8 inches"
+      },
+      "weight": "5 lbs",
+      "rating": 4.5,
+      "image":  "/assets/products/light5.jpg" 
+    },
+    {
+      "category": "lamp",
+      "id": 24,
+      "name": "Battery-Operated Lamp",
+      "price": 49.99,
+      "description": "Cordless operation with rechargeable battery, perfect for outdoor use.",
+      "quantity": 35,
+      "dimensions": {
+        "height": "14 inches",
+        "width": "6 inches",
+        "depth": "6 inches"
+      },
+      "weight": "2 lbs",
+      "rating": 4.1,
+      "image": "/assets/products/light6.jpg" 
+    },
+    {
+      "category": "plantpot",
+      "id": 25,
+      "name": "Ceramic Planter Set",
+      "price": 79.99,
+      "description": "Set of 3 graduated sizes with drainage holes and saucers.",
+      "quantity": 18,
+      "dimensions": {
+        "height": "6-12 inches",
+        "width": "6-10 inches",
+        "depth": "6-10 inches"
+      },
+      "weight": "15 lbs",
+      "rating": 4.6,
+      "image":  "/assets/products/pot5.webp" 
+    },
+    {
+      "category": "plantpot",
+      "id": 26,
+      "name": "Macrame Planter",
+      "price": 39.99,
+      "description": "Handwoven cotton rope with ceramic insert, includes 12-inch hanger.",
+      "quantity": 25,
+      "dimensions": {
+        "height": "18 inches",
+        "width": "8 inches",
+        "depth": "8 inches"
+      },
+      "weight": "2 lbs",
+      "rating": 4.4,
+      "image": "/assets/products/pot1.png"
+    },
+    {
+      "category": "plantpot",
+      "id": 27,
+      "name": "Watering Planter",
+      "price": 59.99,
+      "description": "Innovative reservoir system with water level indicator.",
+      "quantity": 15,
+      "dimensions": {
+        "height": "14 inches",
+        "width": "12 inches",
+        "depth": "12 inches"
+      },
+      "weight": "8 lbs",
+      "rating": 4.7,
+      "image": "/assets/products/pot2.png"
+    },
+    {
+      "category": "plantpot",
+      "id": 28,
+      "name": "Concrete Pot",
+      "price": 89.99,
+      "description": "Modern angular design with integrated drainage system.",
+      "quantity": 12,
+      "dimensions": {
+        "height": "10 inches",
+        "width": "10 inches",
+        "depth": "10 inches"
+      },
+      "weight": "12 lbs",
+      "rating": 4.5,
+      "image": "/assets/products/pot3.png"
+    },
+    {
+      "category": "plantpot",
+      "id": 29,
+      "name": "Rattan Plant Stand",
+      "price": 129.99,
+      "description": "Three-tier display stand with waterproof lining, holds 6-8 plants.",
+      "quantity": 8,
+      "dimensions": {
+        "height": "42 inches",
+        "width": "24 inches",
+        "depth": "12 inches"
+      },
+      "weight": "20 lbs",
+      "rating": 4.8,
+      "image": "/assets/products/pot4.jpg"
+    },
+    {
+      "category": "plantpot",
+      "id": 30,
+      "name": "Glass Terrarium",
+      "price": 69.99,
+      "description": "Hand-blown glass orb with copper stand for air plants or succulents.",
+      "quantity": 20,
+      "dimensions": {
+        "height": "14 inches",
+        "width": "10 inches",
+        "depth": "10 inches"
+      },
+      "weight": "5 lbs",
+      "rating": 4.6,
+      "image": "/assets/products/pot6.webp"
+    },
+    {
+      "category": "table",
+      "id": 31,
+      "name": "Dining Table",
+      "price": 899.99,
+      "description": "Seats 6-10 people with butterfly leaf extension system.",
+      "quantity": 6,
+      "dimensions": {
+        "height": "30 inches",
+        "width": "60-96 inches",
+        "depth": "42 inches"
+      },
+      "weight": "150 lbs",
+      "rating": 4.7,
+      "image": "/assets/products/table1.jpg"
+    },
+    {
+      "category": "table",
+      "id": 32,
+      "name": "Coffee Tables",
+      "price": 349.99,
+      "description": "Set of 3 geometric tables in varying heights, marble and metal.",
+      "quantity": 9,
+      "dimensions": {
+        "height": "16-22 inches",
+        "width": "18-24 inches",
+        "depth": "18-24 inches"
+      },
+      "weight": "45 lbs",
+      "rating": 4.5,
+      "image": "/assets/products/table2.jpg"
+    },
+    {
+      "category": "table",
+      "id": 33,
+      "name": "Standing Desk",
+      "price": 499.99,
+      "description": "Electric height adjustment with memory presets and cable management.",
+      "quantity": 7,
+      "dimensions": {
+        "height": "29-48 inches",
+        "width": "60 inches",
+        "depth": "30 inches"
+      },
+      "weight": "90 lbs",
+      "rating": 4.8,
+      "image": "/assets/products/table3.avif"
+    },
+    {
+      "category": "table",
+      "id": 34,
+      "name": "Table with Drawers",
+      "price": 299.99,
+      "description": "Slim profile with 3 drawers and metal hairpin legs.",
+      "quantity": 12,
+      "dimensions": {
+        "height": "32 inches",
+        "width": "48 inches",
+        "depth": "14 inches"
+      },
+      "weight": "60 lbs",
+      "rating": 4.4,
+      "image": "/assets/products/table4.jpg"
+    },
+    {
+      "category": "table",
+      "id": 35,
+      "name": "Outdoor Patio Table",
+      "price": 599.99,
+      "description": "Weather-resistant teak wood with aluminum frame and tempered glass top.",
+      "quantity": 5,
+      "dimensions": {
+        "height": "30 inches",
+        "width": "72 inches",
+        "depth": "40 inches"
+      },
+      "weight": "120 lbs",
+      "rating": 4.6,
+      "image": "/assets/products/table5.jpg"
+    },
+    {
+      "category": "table",
+      "id": 36,
+      "name": "Round Side Table",
+      "price": 149.99,
+      "description": "Compact design with lower shelf, perfect for small spaces.",
+      "quantity": 15,
+      "dimensions": {
+        "height": "24 inches",
+        "width": "20 inches",
+        "depth": "20 inches"
+      },
+      "weight": "25 lbs",
+      "rating": 4.3,
+      "image": "/assets/products/table6.jpg"
+    }
+  ]
