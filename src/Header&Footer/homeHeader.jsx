@@ -10,7 +10,7 @@ const Header = () => {
         
 
         <div className="text-white text-2xl font-bold">
-          Pano
+          avion
         </div>
 
         <div className="flex gap-8">
